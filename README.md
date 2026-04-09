@@ -66,7 +66,9 @@ Currently pursuing my Master's in CS with an AI focus, and spending way too many
 ### 🤖 AI / ML
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" title="Hugging Face" height="36" />
+</a>
 </p>
 
 ### 🧰 Tools & Design
